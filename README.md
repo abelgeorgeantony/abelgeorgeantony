@@ -1,5 +1,5 @@
 # Abel George Antony
-Above average computing enjoyer.
+computing enjoyer.
 
 ---
 
@@ -7,7 +7,6 @@ Above average computing enjoyer.
 
 * I am not going to list a specific set of technologies as my identity. It is just a dumb categorization, how would it feel like if your mechanic said "oh I am a braking systems engineer, I specialize specifically in hydraulic brakes".
 * I try to learn concrete concepts and the philosophy of computer science.
-* Sometimes I am making software, sometimes I make myself believe I making software.
 
 ### Connect
 
